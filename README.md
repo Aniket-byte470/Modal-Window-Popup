@@ -28,4 +28,3 @@
 
 - This project is inspired by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/) and his JavaScript course.  
 - I built **Modal Magic** by following and learning from his tutorials on Udemy.  
-- All credit for the original idea and logic goes to him.
